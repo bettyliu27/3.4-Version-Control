@@ -29,3 +29,6 @@ Aspects of the code were written with the help of the auto-complete tool, Codriv
 - [ ] Remove files that you're not using
 - [ ] Update comments in R scripts
 - [ ] Remove this checklist
+
+
+Edited Oct2
